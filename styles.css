@@ -3370,9 +3370,9 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-intro {
-    --content-padding-top   : max(20rem, 5vh);
+    --content-padding-top   : max(10rem, 5vh);
     --content-padding-bottom: 8rem;
-    --content-min-height    : calc(var(--vspace-1) * 27);
+    --content-min-height    : calc(var(--vspace-1) * 10);
     z-index                 : 2;
     background-color        : var(--color-gray-10);
     width                   : 100%;
