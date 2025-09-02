@@ -3472,8 +3472,8 @@ td:last-child {
     -o-object-fit : cover;
     object-fit    : cover;
     vertical-align: bottom;
-    width         : 100%;
-    height        : 100%;
+    width         : 50%;
+    height        : 50%;
     margin        : 0;
     padding       : 0;
 }
