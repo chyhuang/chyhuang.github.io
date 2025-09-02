@@ -3376,7 +3376,7 @@ td:last-child {
     z-index                 : 2;
     background-color        : var(--color-gray-10);
     width                   : 100%;
-    height                  : max(var(--content-min-height), 60vh);
+    height                  : 60vh;
     overflow                : hidden;
     position                : relative;
 }
