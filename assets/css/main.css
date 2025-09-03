@@ -110,7 +110,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #818589;
 		font-family: var(--font-1);
 		font-size: 16pt;
 		font-weight: 400;
@@ -147,7 +147,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h4, h5, h6 {
-		color: #787878;
+		color: #36454F;
 		font-weight: 200;
 		line-height: 1em;
 		margin: 0 0 1em 0;
