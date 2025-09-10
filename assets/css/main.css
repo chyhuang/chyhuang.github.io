@@ -133,7 +133,7 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
-	strong, b {
+	strong {
 		color: #787878;
 		font-weight: 400;
 	}
